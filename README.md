@@ -1,4 +1,4 @@
-## frontend Assignment for Speedy Brand.
+## Frontend Assignment for Speedy Brand.
 
 ## Features:
 1. Rendered the topics in the list format as shown below. Topics are arranged by category.
