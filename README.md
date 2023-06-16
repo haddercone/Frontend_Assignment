@@ -11,3 +11,21 @@ topic name and keywords. This topic saves in a custom category.
 - When users press the “Write” button it opens a blog editor.
 - The editor allows users to select a tone and press the “Generate” button to write the blog.
 - The editor  supports features like adding images and text.
+
+## Installation steps:
+
+1. go to `Frontend_Assignment` directory:
+
+    ```
+    cd Frontend_Assignment
+    ```
+2. install the dependencies:
+    ```
+    npm install
+    ```
+3. Run on your local machine:
+    ```
+    npm run dev
+    ```
+4. Go to `http://localhost:5173/` to check out the application.
+
